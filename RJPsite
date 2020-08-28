@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <div id="main">
+  <head>
+<title>River Phoenix Tribute</title>
+  </head>
+    <body>
+<div class="header">
+<h1>River Phoenix</h1>
+    </div>
+<div class="image" id="img-div" img caption="River Phoenix">
+<img src="https://media.nbcdfw.com/2019/09/River-Phoenix.jpg?fit=722%2C406" alt="photo of river phoenix" id="image">
+  <figcaption>"In simplicity there is truth." -RJP
+  </figcaption>
+</div "image">
+  <br>
+  <br>
+<p1 id="tribute-info" class="body">
+  River Jude Phoenix wore many hats during his 23 years on Earth. A talented actor, <br> musician, animal rights activist, and teen hearthrob, River captivated the 80s on <br> and off stage. Rivers impact can be felt through just about anyone he had ever met. Revered by those who <br>knew him as a truly special soul, River aimed to bring harmony and healing to the world in anyway he knew how.
+  </p1>
+  <br>
+  <br>
+<br>
+ <ul id="timeline">
+   <li><b>1970:</b> River Jude Phoenix is born to Arlyn Dunetz and John Lee Bottom </li>
+   <br>
+   <br>
+   <li><b>1973:</b> Dunetz and Bottom join the Children of God religious cult<br> Claims of River and his siblings being abused during the family's time in <br>Children of God are debated</li>
+  <br>
+   <br>
+   <li><b>1973:</b> Dunetz and Bottom join the Children of God religious cult<br> Claims of River and his siblings being abused during the family's time in <br>Children of God are debated</li>
+   <br>
+   <br>
+   <li><b>1980:</b> River begins pursuing a career in acting alongside his sister Rain</li>
+   <br>
+   <br>
+   <li><b>1986:</b> River gets his big break into film with the debut of "Stand By Me"<br> in a role that would go on to connect with people for decades after his passing</li>
+   <br>
+   <br>
+   <li><b>1987:</b> River and his sister Rain form "Aleka's Attic" a band that <br>specialized in "progressive, ethereal folk-rock" in River's words</li>
+   <br>
+   <br>
+   <li><b>1992:</b> River receives the Humanitarian Award for his PETA fundraising efforts</li>
+   <br>
+   <br>
+   <li><b>1993:</b> On Halloween night, River Phoneix dies of an overdose <br>outside of the Viper Room in Los Angeles
+  </ul>
+  <br>
+  <p2 id="ending">
+    River's spirit touched all who had the divine pleasure of meeting him. <br>Friends and family contest he was a man of his word who fought endlessly for what he believed in. <br>His story continues to inspire after nearly 3 decades since his passing. <br>Though his life was cut short, his impact is neverending.
+    <br>
+    <br>
+    <footer class="footer"><i>"Run to the rescue with love and peace will follow" -RJP</i></footer>
+    </body>
+<br>
+<a href="https://en.wikipedia.org/wiki/River_Phoenix" id="tribute-link"> River's Wiki</a>
+      </div "main">
+  </html>
+  
+  <style>
+@font-face{
+  font-family: palatino;
+}
+.header {
+  padding: 0px;
+  font-family: palatino;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+.footer {
+  padding: 0px;
+  font-family: palatino;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+}
+#timeline {
+  font-size: 15px;
+}
+#tribute-info {
+  padding: 10px;
+  font-size: 18px;
+  font-family: 
+}
+img {
+  width: 50%;
+  height: 50%;
+  }
+figcaption {
+  font-style: italic;
+  font-size: 13px;
+  padding: 2px;
+}
+body {
+  font-family: times;
+  text-align: center;
+  background: linear-gradient(to bottom);
+  background-color: white;
+  height: 100vh;
+  margin: 2;
+  display: grid;
+  place-items: center;
+}
+#ending {
+    color: black;
+  font-size: 18px;
+}
+  
+</style>
